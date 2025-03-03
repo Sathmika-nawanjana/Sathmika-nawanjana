@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Java, Python, PHP**
 
+- 📫 How to reach me **sathmika23@gmail.com**
+
 - ⚡ Fun fact **Call me as Sathmika**
 
 <h3 align="left">Connect with me:</h3>
